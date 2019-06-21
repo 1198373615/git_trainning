@@ -17,3 +17,6 @@ forth time to change------
 fifth time to cahnge------
 第五次加东西
 ------change to time fifth
+sixth time to change------
+第六次加东西
+------change to time sixth
