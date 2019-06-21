@@ -1,3 +1,3 @@
-这是我第一次使用git
-很好玩，很简单，很实用，Linux很有智慧
---20160620
+this repository is only used for test git
+It is the first time that I use git successfully
+come on and join me
